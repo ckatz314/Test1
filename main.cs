@@ -2,6 +2,7 @@ using System;
 
 class MainClass {
   public static void Main (string[] args) {
-    Console.WriteLine ("Hello MY World");
+    Console.WriteLine ("Hello World");
+    Console.WriteLine ("Hello sunny World");
   }
 }
